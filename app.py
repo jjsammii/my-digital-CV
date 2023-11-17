@@ -22,7 +22,7 @@ SOCIAL_MEDIA = {
 }
 
 PROJECTS = {
-    "🏆 Farmgate Dashboard - Datavisualtion tool for crop prices and price prediction": "https://lnkd.in/ej6Cuwmz",
+    "🏆 Farmgate Dashboard - Data visualization tool for crop prices and price prediction": "https://lnkd.in/ej6Cuwmz",
     "🏆 Tech Talk demo - Youtube Azure Datafactory ETL and Azure machine learning" : "https://www.youtube.com/watch?v=mWW-OsELCn0&t=1892s",
 }
 
@@ -78,12 +78,12 @@ st.write(
 """
 -   ✔ Scripted unique on-premise data transformation solutions for clients using Python.
 -   ✔ Conducted requirements gathering sessions and proposed relevant data architectures.
--   ✔ Built reliable and scalable ETL pipelines using Azure Data Factory, Databricks, Synapse Analytics and Azure Data Lake Gen2 Storage.
+-   ✔ Built ETL pipelines using Azure Data Factory, Databricks, Synapse Analytics and Azure Data Lake Gen2 Storage.
 -   ✔ Utilized Git and Azure DevOps Git to manage code base and pipeline deployment across multiple environments.
--   ✔ Delivered high quality, production ready pipelines for an array of projects for enterprise clients such as RedStripe Jamaica Limited and National Water Commission Jamaica.
+-   ✔ Delivered high quality, production ready pipelines for an array of projects for enterprise clients.
 -   ✔ Evaluated client documentation and technical requirements to implement data lakehouse solutions.
 -   ✔ Implemented departmental and global data analytics dashboards for clients using PowerBI. 
--   ✔ Built Proof of concept designs for azure cloud architecture and included data governance framework using open-source tools such as datahub.
+-   ✔ Built Proof of concept designs for azure cloud architecture and included data governance framework.
 """
 )
 
@@ -129,7 +129,7 @@ st.write(
 # ---- Education
 st.write("#")
 st.subheader("Education")
-st.write("📜", "Niagara College TSoM (May 2023 - Dec 2023) | **Certificate in Internation Business Management**")
+st.write("📜", "Niagara College TSoM (May 2023 - Dec 2023) | **Certificate in IBM**")
 st.write("📜", "University of the West Indies (Sep 2019 - Sep 2021) | **Masters in Applied Data Science**")
 st.write("📜", "University of the West Indies (Sep 2017 - Sep 2018) | **Post Graduate Diploma in IT**")
 st.write("📜", "University of the West Indies (Sep 2009 - Sep 2013) | **Bsc in Chemistry and Marine Biology**")
